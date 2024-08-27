@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.Infrastructure", "Basket.Infrastructure.csproj", "{CBBB8610-1459-4CC8-9BDE-E1FCE852024D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBB8610-1459-4CC8-9BDE-E1FCE852024D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBB8610-1459-4CC8-9BDE-E1FCE852024D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBB8610-1459-4CC8-9BDE-E1FCE852024D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBB8610-1459-4CC8-9BDE-E1FCE852024D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
